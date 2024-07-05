@@ -1,6 +1,10 @@
 # ARN_Training
 For training purposes
-# Data on Survival for COVID-19 among hospitalized patients in Fortportal
+## Contributors
+- Michael Muhoozi
+
+
+## Data on Survival for COVID-19 among hospitalized patients in Fortportal
 This dataset contains information on the survival of COVID-19 among hospitalized patients in Fortportal. The data was collected to study various factors that may influence patient outcomes.
 # Variables
 The dataset includes the following variables:
