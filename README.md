@@ -4,17 +4,17 @@ For training purposes
 This dataset contains information on the survival of COVID-19 among hospitalized patients in Fortportal. The data was collected to study various factors that may influence patient outcomes.
 # Variables
 The dataset includes the following variables:
-Name of data collector: The individual who collected the data.
-Name of Referral Hospital: The hospital where the patient was referred.
-CASE ID: Unique identifier for each case.
-Social Demographic: Demographic information of the patient.
-Occupation: The patient’s occupation.
-Occupation_cat: Category of the occupation.
-Age of patient: The patient’s age.
-Gender of the patient: The patient’s gender.
-Gender_Cat: Category of the gender.
-District of the patient: The district where the patient resides.
-Distr_Patient_Cat: Category of the patient’s district.
+-Name of data collector: The individual who collected the data.
+-Name of Referral Hospital: The hospital where the patient was referred.
+-CASE ID: Unique identifier for each case.
+-Social Demographic: Demographic information of the patient.
+-Occupation: The patient’s occupation.
+-Occupation_cat: Category of the occupation.
+-Age of patient: The patient’s age.
+-Gender of the patient: The patient’s gender.
+-Gender_Cat: Category of the gender.
+-District of the patient: The district where the patient resides.
+-Distr_Patient_Cat: Category of the patient’s district.
 Regions_Cat: Category of the region.
 Subcounty/Division: Subcounty or division where the patient resides.
 Parish: Parish where the patient resides.
